@@ -2,7 +2,7 @@
 #
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
-version: 8.11.3
+version: 8.10.0
 jobs:
   build:
     docker:
